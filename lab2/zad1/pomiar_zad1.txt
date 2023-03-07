@@ -1,0 +1,9 @@
+Library time:
+
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 1240maxresident)k
+0inputs+0outputs (0major+75minor)pagefaults 0swaps
+
+System time:
+
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 1132maxresident)k
+0inputs+0outputs (0major+68minor)pagefaults 0swaps

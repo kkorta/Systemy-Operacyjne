@@ -1,0 +1,17 @@
+ignore fork
+ignore exec
+ignore fork
+ignored
+ignore exec
+ignored
+handler fork
+handler received handler received handler received handler exec
+mask fork
+mask exec
+masked
+masked
+pending fork
+pending (parent yes)
+pending (parent yes)
+pending (child  no'n)pending exec
+pending (child yes'n)

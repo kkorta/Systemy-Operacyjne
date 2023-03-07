@@ -1,0 +1,15 @@
+Library time:
+
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 1344maxresident)k
+0inputs+0outputs (0major+109minor)pagefaults 0swaps
+
+Number of char "o" is 11960
+Number of lines where char exists is 11960make sys
+
+System time:
+
+0.00user 0.00system 0:00.00elapsed 0%CPU (0avgtext+0avgdata 1388maxresident)k
+0inputs+0outputs (0major+109minor)pagefaults 0swaps
+
+Number of char "o" is 11960
+Number of lines where char exists is 11960
